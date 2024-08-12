@@ -6,7 +6,7 @@ import "./App.css"
 import SearchForm from "./SearchForm"
 
 
-const API = "https://api.npoint.io/4fe36224ecb93bdeec6a/transactions/"
+const API = "https://json-server-vercel-rho-bay.vercel.app/transactions"
 // const local = "http://localhost:8001/transactions"
 
 function App() {
